@@ -233,7 +233,7 @@
     border-bottom: 2px solid #ffc800;
 }
 #product-cards .card h3{
-    font-size: 25px;
+    font-size: 20px;
     color: black;
 }
 #product-cards .card p{
@@ -260,7 +260,7 @@
 }
 @media screen and (max-width:1000px){
     #product-cards .card h3{
-        font-size: 18px;
+        font-size: 15px;
     }
 }
 /* Product Cards */
@@ -329,3 +329,185 @@
     }
 }
 /* Other cards */
+
+/* banner */
+
+.banner{
+    margin-top: 60px;
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+    background-color: #a9a9a92b;
+    z-index: 0;
+}
+.banner .img{
+    flex: 1 1 300px;
+}
+.banner .img img{
+    margin-top: 30px;
+    width: 100%;
+}
+.banner .content{
+    flex: 1 1 400px;
+    margin-top: 20px;
+}
+.banner .content h1{
+    color: rgb(188, 22, 235);
+    font-weight: bold;
+    margin-left: 23px;
+    font-size: 55px;
+    text-shadow: -1px 1px 1px black;
+}
+.banner .content h1 span{
+    color: rgb(188, 22, 235);
+}
+#span2{
+    color: #ffc800;
+}
+.banner .content p{
+    margin-left: 23px;
+}
+.btn{
+    margin-left: 13px;
+}
+.btn button{
+    width: 125px;
+    height: 50px;
+    letter-spacing: 3px;
+    background-color: rgb(188, 22, 235);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+.btn button:hover{
+    background-color: #ffc800;
+    color: black;
+    border: none;
+}
+@media screen and (max-width:1200px){
+    .banner{
+        height: 90vh;
+    }
+    
+}
+@media screen and (max-width:799px){
+    .banner{
+        height: 140vh;
+    }
+    
+}
+@media screen and (max-width:550px){
+    .banner{
+        height: 110vh;
+    }
+    
+}
+@media screen and (max-width:420px){
+    .banner .content h1{
+        font-size: 45px;
+    }
+    
+}
+@media screen and (max-width:320px){
+    .banner .content h1{
+        font-size: 36px;
+    }
+    
+}
+/* banner */
+
+
+/* Other cards */
+#other{
+    margin-top: 50px;
+}
+#other .card{
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+#other .card h3{
+    margin-top: 10px;
+    color: white;
+    text-shadow: 0px 1px 1px black;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+#other .card p{
+    margin-top: 10px;
+    color: white;
+    text-shadow: 0px 1px 1px black;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+/* Other cards */
+
+
+/* Offer */
+#offer{
+    margin-top: 100px;
+}
+#offer i{
+    font-size: 32px;
+    color: black;
+}
+/* Offer */
+
+
+/* newslater */
+
+#newslater{
+    margin-top: 100px;
+}
+#newslater h3{
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+.input{
+    margin-top: 30px;
+}
+.input input{
+    width: 350px;
+    height: 36px;
+    letter-spacing: 2px;
+    border-radius: 3px;
+    border: 1px solid black;
+    padding-left: 5px;
+}
+#subscribe{
+    width: 200px;
+    height: 36px;
+    margin-left: 10px;
+    border-radius: 3px;
+    border: none;
+    background-color: #ffc800;
+    color: white;
+    letter-spacing: 3px;
+    font-weight: bold;
+    text-shadow: 0px 0px 1px black;
+}
+@media screen and (max-width:465px){
+    .input input{
+        width: 280px;
+    }
+    #subscribe{
+        margin-top: 10px;
+    }
+}
+@media screen and (max-width:250px){
+    .input input{
+        width: 150px;
+    }
+    #subscribe{
+        margin-top: 150px;
+    }
+}
+
+/* newslater */
+
+
