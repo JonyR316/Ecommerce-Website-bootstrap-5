@@ -1,1 +1,5 @@
-[Uploading Pagina web.pdf…]()
+![image](https://github.com/JonyR316/Ecommerce-Website-bootstrap-5/assets/154078733/89886263-3aaa-486d-91dc-01b349ca1cf5)
+![image](https://github.com/JonyR316/Ecommerce-Website-bootstrap-5/assets/154078733/0949e7e0-a518-4ba4-8d99-95622f042616)
+![image](https://github.com/JonyR316/Ecommerce-Website-bootstrap-5/assets/154078733/e7dd9baf-1b85-47f4-8403-64cb4ad40eda)
+![image](https://github.com/JonyR316/Ecommerce-Website-bootstrap-5/assets/154078733/4d3d0aa5-91dc-4424-af99-0daa78daceaa)
+![image](https://github.com/JonyR316/Ecommerce-Website-bootstrap-5/assets/154078733/aee8869e-8c66-473c-911a-923d32b6500d)
